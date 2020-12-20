@@ -1,0 +1,267 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+		/*header*/
+	.logo {
+    width: 80%;
+	}
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right !important;
+	}
+	/*banner*/
+	.banner {
+    padding: 15px 0 90px;
+	}
+	.c_t {
+    font-size: 35px !important;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+	}
+	.c_p {
+    margin: 20px 0;
+    font-size: 16px !important;
+	}
+	.s_text button {
+    margin-top: 10px;
+    width: 231px;
+    height: 48px;
+    font-size: 17px;
+}
+/* 1st sec start*/
+	.c_pad {
+    padding: 0 0;
+	}
+	.f_text h2 {
+    font-size: 28px !important;
+    word-spacing: 8px;
+    line-height: 33px;
+	}
+	.f_text p {
+    margin-top: 11px;
+    font-size: 16px !important;
+    line-height: 23px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+	}
+	/*service*/
+	.single_itm {
+    margin: 15px 0;
+	}
+	/*work*/
+	.c_title {
+    padding-top: 24px;
+	}
+	.cm {
+    margin: 20px 0;
+    font-size: 34px !important;
+	}
+	/*story satrt*/
+	.s_content img {
+    width: 65px;
+    height: 65px;
+	}
+	.story {
+    padding-top: 130px;
+    padding-bottom: 80px;
+	}
+		/*work*/
+	.w_text {
+    padding-top: 0;
+    padding-bottom: 9px;
+	}
+	.w_text h2 {
+    font-size: 22px !important;
+	}
+	.w_text p {
+    margin-top: 5px;
+    margin-bottom: 1px;
+    font-size: 13px !important;
+	}
+	.w_text button {
+    width: 222px;
+    height: 33px;
+    margin: 0px 37px;
+	}
+	/*footer*/
+	.p_text {
+    margin: 25px 0;
+	}
+	.contact h2 {
+    margin-bottom: 22px;
+	}
+
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header*/
+	
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right !important;
+	}
+	/*banner*/
+	.banner {
+    padding: 48px 0 100px;
+	}
+	.c_t {
+    font-family: ;
+    font-size: 45px !important;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+	}
+	.s_text button {
+    margin-top: 10px;
+    width: 231px;
+    height: 48px;
+    font-size: 17px;
+}
+	/* 1st sec start*/
+	.c_pad {
+    padding: 0 0;
+	}
+	.f_text h2 {
+    font-size: 28px !important;
+    word-spacing: 8px;
+    line-height: 33px;
+	}
+	.f_text p {
+    margin-top: 11px;
+    font-size: 16px !important;
+    line-height: 23px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+	}
+	.single_itm {
+    margin: 30px 0;
+	}
+	/*story satrt*/
+	.s_content img {
+    width: 78px;
+    height: 76px;
+	}
+	.story {
+    padding-top: 160px;
+    padding-bottom: 110px;
+	}
+		/*work*/
+	.w_text {
+    padding-top: 0;
+    padding-bottom: 9px;
+	}
+	.w_text h2 {
+	padding-top: 21px;
+    font-size: 22px !important;
+	}
+	.w_text p {
+    margin-top: 5px;
+    margin-bottom: 1px;
+    font-size: 13px !important;
+	}
+	.w_text button {
+    width: 222px;
+    height: 33px;
+	}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header*/
+	.logo {
+    width: 90%;
+	}
+	.menu ul li a{
+	padding: 0 0 !important;
+	text-align: right !important;
+	}
+	/*banner*/
+	.banner {
+    padding: 58px 0 110px;
+	}
+	.c_t {
+    font-family: ;
+    font-size: 45px !important;
+	}
+	.s_text button {
+    margin-top: 10px;
+    width: 231px;
+    height: 48px;
+    font-size: 17px;
+	}
+	/* 1st sec start*/
+	.c_pad {
+    padding: 0 0;
+	}
+	.f_text h2 {
+    font-size: 28px !important;
+    word-spacing: 8px;
+    line-height: 33px;
+	}
+	.f_text p {
+    margin-top: 11px;
+    font-size: 16px !important;
+    line-height: 23px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+	}
+	/*story satrt*/
+	.s_content img {
+    width: 78px;
+    height: 76px;
+	}
+	.story {
+    padding-top: 170px;
+    padding-bottom: 120px;
+	}
+		/*work*/
+	.w_text {
+    padding-top: 0;
+    padding-bottom: 9px;
+	}
+	.w_text h2 {
+	padding-top: 21px;
+    font-size: 28px !important;
+	}
+	.w_text p {
+    margin-top: 13px;
+    margin-bottom: 16px;
+	}
+	.w_text button {
+    width: 283px;
+    height: 44px;
+	}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner*/
+.banner {
+    padding: 68px 0 120px;
+	}
+	.c_t {
+    font-family: ;
+    font-size: 45px !important;
+	}
+	/*f_*/
+	.c_pad {
+    padding: 28px 0;
+	}
+	/*work*/
+	.w_text {
+    padding-top: 42px;
+    padding-bottom: 9px;
+	}
+
+}
+
+/*X-Large devices(desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+
+}
+
+/*XX-Large devices(large desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
